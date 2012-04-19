@@ -1,0 +1,12 @@
+## Interface: 40300
+## Title: [調試中]wBar
+## Author: 
+## Version: 0.5
+## Notes: +吸收&死打估计
+## Dependencies : wLib
+
+wLib.lua
+cfg.lua
+wBar.lua
+wBar_absorb.lua
+wBar_DS.lua
